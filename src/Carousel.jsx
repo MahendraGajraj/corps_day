@@ -76,7 +76,7 @@ const Carousel = () => {
                     <span className="visually-hidden">Next</span>
                 </button>
             </div>
-            <h5 className="text-center text-success pt-2">Specially wish to DEE(RO)-127 course all Members on Occasion of 82nd Corps Day Celebration by Sub Amarchand (course senior).</h5>
+            <h5 className="text-center text-success pt-2">Specially wish to DEE(RO)-127 course all Members on Occasion of 84Th Corps Day Celebration by Sub Amarchand (course senior).</h5>
             <section className='text-center text-danger'>
                 <p>
                     Copyright 2024 ©- All Right Reserved.
