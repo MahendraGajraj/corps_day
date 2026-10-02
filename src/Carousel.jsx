@@ -5,7 +5,7 @@ const Carousel = () => {
     return (
 
         <div className=" container border border-3 border-info pt-3 rounded">
-            <h1 className="text-center font-weight-bold:700 text-uppercase text-success">Wish you 82<span className='text-lowercase'>nd</span> EME Corps Day Celeberation</h1>
+            <h1 className="text-center font-weight-bold:700 text-uppercase text-success">Wish you 84<span className='text-lowercase'>th</span> EME Corps Day Celeberation</h1>
             <h4 className="text-center p-50">Click on play button to play song:</h4>
             <audio className="p-2" controls autoPlay loop>
                 <source src="corps_song.mp3" type="audio/mpeg" />
@@ -76,10 +76,10 @@ const Carousel = () => {
                     <span className="visually-hidden">Next</span>
                 </button>
             </div>
-            <h5 className="text-center text-success pt-2">Specially wish to DEE(RO)-127 course all Members on Occasion of 84Th Corps Day Celebration by Sub Amarchand (course senior).</h5>
+            <h5 className="text-center text-success pt-2">Specially wish to DEE(RO)-127 course all Members on Occasion of 84th Corps Day Celebration by Sub Amarchand (course senior).</h5>
             <section className='text-center text-danger'>
                 <p>
-                    Copyright 2024 ©- All Right Reserved.
+                    Copyright 2026 ©- All Right Reserved.
                     <br /> Mahendra Singh Gajraj
                 </p>
             </section>
